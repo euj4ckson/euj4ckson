@@ -11,8 +11,7 @@ My name is Jackson! <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=euj4ckson&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a> 
  
-  <a href="[https://github.com/euj4ckson](https://github.com/euj4ckson)"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euj4ckson&layout=compact&langs_count=16&theme=tokyonight"/>
+  
 </div>
        
 <h4>Programming Languages:<h4>
