@@ -3,17 +3,10 @@
 <body>
 👋 Hello! Welcome to my Github profile.
 My name is Jackson! <br>
-Sou um desenvolvedor apaixonado por tecnologia e aprendizado.
+I am a developer with a passion for technology and learning.
 <br><br>
 
 
-
-  <h3> 📚 Github Stats: <br></h3>
-  <div style="display: inline_block"><br>
-         
-<a href="http://www.github.com/euj4ckson">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=euj4ckson&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a> 
  
   
 </div>
